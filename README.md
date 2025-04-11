@@ -1,3 +1,5 @@
+## Name: Kanagavel A K
+## Reg no: 212223230096
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
